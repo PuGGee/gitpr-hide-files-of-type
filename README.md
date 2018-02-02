@@ -8,3 +8,9 @@
 - Done
 
 Then open up a PR and after a few seconds some checkboxes should appear, allowing you to hide the files in the PR. They aren't styled at the moment but they should function at least
+
+---
+
+Or you can get it from the Chrome store (it's free):
+
+https://chrome.google.com/webstore/detail/github-pr-file-hider/danbkhjoigipnkohgnidnibfhmlbbned
