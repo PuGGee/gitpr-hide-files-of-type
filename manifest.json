@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Image Switcher",
-  "description": "Change all images in the tab!",
+  "name": "Github PR file hider",
+  "description": "Hide files by extension when viewing PRs",
   "version": "1.0",
 
   "icons": {
